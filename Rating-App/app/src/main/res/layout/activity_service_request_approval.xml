@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="30dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ServiceRequestApprovalTitle"
+            android:textAlignment="center"
+            android:textSize="30sp"
+            android:textStyle="bold"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+
+        <TextView
+            android:id="@+id/CreateServiceName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/CreateService_LabelName" />
+
+        <EditText
+            android:id="@+id/ApproveServiceNameTB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:ems="10"
+            android:focusable="false"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/CreateServiceRate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/CreateService_LabelRate" />
+
+        <EditText
+            android:id="@+id/ApproveServiceRateTB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:ems="10"
+            android:focusable="false"
+            android:inputType="numberDecimal" />
+
+
+        <TextView
+            android:id="@+id/LabelDocuments"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/LabelDocuments" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="20">
+
+            <TableLayout
+                android:id="@+id/tableApproveDocuments"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+            </TableLayout>
+        </ScrollView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnApproveRequestsYES"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/BtnText_Approve" />
+
+            <Button
+                android:id="@+id/btnApproveRequestsNO"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/BtnText_Reject" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnBackApproveRequests"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/BtnText_Back" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

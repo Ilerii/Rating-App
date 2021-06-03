@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223048350522",
+    "firebase_url": "https://seg2015-group33.firebaseio.com",
+    "project_id": "seg2015-group33",
+    "storage_bucket": "seg2015-group33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223048350522:android:cb8d298cb388efed7eee03",
+        "android_client_info": {
+          "package_name": "com.example.servicenovigradproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223048350522-81s1ittefkql3hpbi8v1bpnd1u7c70pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs6E9Hxux4s1DxSv4DPcWrY5-1sN1uMRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223048350522-81s1ittefkql3hpbi8v1bpnd1u7c70pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

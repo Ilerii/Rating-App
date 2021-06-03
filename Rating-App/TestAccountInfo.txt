@@ -1,0 +1,11 @@
+Made By Aaron, in case he forgets his login info
+
+Name: Aaron Ng
+Email: aang@gmail.com
+Password: querty
+
+test
+
+Admin Account
+Email: admin@admin.ca
+Password: qwerty

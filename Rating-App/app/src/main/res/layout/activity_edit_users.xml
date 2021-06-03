@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EditUsers">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:scrollbars="vertical"
+        android:weightSum="40"
+        >
+
+
+        <ScrollView
+            android:id = "@+id/editUsersScrollView"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:layout_weight="32"
+            android:layout_marginTop="8dp"
+            >
+
+            <HorizontalScrollView
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                >
+
+                <TableLayout
+                    android:id="@+id/EditUsersUserTable"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scrollbars="vertical"></TableLayout>
+
+            </HorizontalScrollView>
+
+        </ScrollView>
+
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onClickBack"
+            android:text="@string/BtnText_Back"
+            android:layout_weight="1"/>
+
+        <Button
+            android:id="@+id/btnDeleteUsers"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onClickDeleteSelectedUsers"
+            android:text="@string/BtnText_Delete"
+            android:layout_weight="1"/>
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="6"
+            android:layout_marginBottom="20dp"/>
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

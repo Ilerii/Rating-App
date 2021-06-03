@@ -1,0 +1,686 @@
+{
+  "branch" : {
+    "-MME-pH5CnejyU8gydNq" : {
+      "address" : "420 Test Ave.",
+      "branchSetUp" : true,
+      "phoneNumber" : "696-969-6969",
+      "workingHours" : [ {
+        "endHour" : -1,
+        "endMinute" : -1,
+        "startHour" : -1,
+        "startMinute" : -1
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 10,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 10,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 10,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 10,
+        "startMinute" : 0
+      }, {
+        "endHour" : 16,
+        "endMinute" : 0,
+        "startHour" : 11,
+        "startMinute" : 0
+      }, {
+        "endHour" : 16,
+        "endMinute" : 0,
+        "startHour" : 12,
+        "startMinute" : 0
+      } ]
+    },
+    "-MMIoce0tds7oRUVr1sb" : {
+      "address" : "",
+      "branchSetUp" : true,
+      "phoneNumber" : ""
+    },
+    "-MMIohLRhiupkLJ4ZCd-" : {
+      "address" : "",
+      "branchSetUp" : true,
+      "phoneNumber" : ""
+    },
+    "-MMIopCobSV0qkAVTJ60" : {
+      "address" : "",
+      "branchSetUp" : true,
+      "phoneNumber" : ""
+    },
+    "-MMIsNBmESw0-rOTCztp" : {
+      "address" : "",
+      "branchSetUp" : true,
+      "phoneNumber" : ""
+    },
+    "FsRas4e1wsXtKc3jg6MZMYy8PHy1" : {
+      "address" : "420 Test Ave",
+      "branchSetUp" : true,
+      "offeredServices" : [ "-ML4nEEOxlWZ1guSpi-_", "-MMDuK2KzLfgsbhR8w8n" ],
+      "phoneNumber" : "6969696969",
+      "workingHours" : [ {
+        "endHour" : -1,
+        "endMinute" : -1,
+        "startHour" : -1,
+        "startMinute" : -1
+      }, {
+        "endHour" : 18,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 12,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 12,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 12,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 12,
+        "startMinute" : 0
+      }, {
+        "endHour" : -1,
+        "endMinute" : -1,
+        "startHour" : -1,
+        "startMinute" : -1
+      } ]
+    },
+    "IYhJEi5rueeTQ9nMhqmhxXtN7go2" : {
+      "address" : "",
+      "branchSetUp" : true,
+      "phoneNumber" : ""
+    },
+    "OZVSS10DeXdH6J37rp8jibPPYDs1" : {
+      "address" : "yep",
+      "branchSetUp" : true,
+      "offeredServices" : [ "-MMDuK2KzLfgsbhR8w8n", "-ML4nEEOxlWZ1guSpi-_" ],
+      "phoneNumber" : "420",
+      "workingHours" : [ {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      } ]
+    },
+    "PISQeHkgIjSHELF6lyyhlcAF2uL2" : {
+      "address" : "hghfgre",
+      "branchSetUp" : true,
+      "offeredServices" : [ "-ML4nEEOxlWZ1guSpi-_", "-MMDuK2KzLfgsbhR8w8n" ],
+      "phoneNumber" : "123",
+      "workingHours" : [ {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      } ]
+    },
+    "S8Dq7LqEdLTJO4uTQonlfQSZ8RL2" : {
+      "address" : "1234 Meme Ave",
+      "branchSetUp" : true,
+      "offeredServices" : [ "-MMDuK2KzLfgsbhR8w8n" ],
+      "phoneNumber" : "6135555555",
+      "workingHours" : [ {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 12,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      }, {
+        "endHour" : 17,
+        "endMinute" : 0,
+        "startHour" : 9,
+        "startMinute" : 0
+      } ]
+    },
+    "XMBrOHGjpocF4jEajAhmBegDtgY2" : {
+      "address" : "",
+      "branchSetUp" : true,
+      "phoneNumber" : ""
+    },
+    "cuYUH7htNEUuZSf1zHc6PvCYzmC3" : {
+      "address" : "",
+      "branchSetUp" : true,
+      "phoneNumber" : ""
+    },
+    "q94M8HsayiRVequ1CsKRisZhkvR2" : {
+      "address" : "",
+      "branchSetUp" : true,
+      "phoneNumber" : ""
+    }
+  },
+  "requests" : {
+    "test" : {
+      "name" : "MY NAME",
+      "rate" : 100
+    }
+  },
+  "services" : {
+    "-ML4nEEOxlWZ1guSpi-_" : {
+      "driverLicense" : true,
+      "healthCard" : true,
+      "name" : "Pizza Driver",
+      "photoID" : true,
+      "rate" : 18
+    },
+    "-MMDuK2KzLfgsbhR8w8n" : {
+      "driverLicense" : false,
+      "healthCard" : false,
+      "name" : "App Tester",
+      "photoID" : true,
+      "rate" : 110
+    },
+    "-MMmiVxX48gR1k6gNe3x" : {
+      "driverLicense" : false,
+      "healthCard" : false,
+      "name" : "njpgnzqz",
+      "photoID" : false,
+      "rate" : 100
+    },
+    "-MMminIi-31g4bcBvjNr" : {
+      "driverLicense" : false,
+      "healthCard" : false,
+      "name" : "leetjioc",
+      "photoID" : false,
+      "rate" : 100
+    },
+    "-MMmjWjf-EwzWduIGOlc" : {
+      "driverLicense" : false,
+      "healthCard" : false,
+      "name" : "dbgaawyq",
+      "photoID" : false,
+      "rate" : 100
+    }
+  },
+  "users" : {
+    "3dcPdm4fegSW1UdVyDlDValIuzI2" : {
+      "disabledFlag" : false,
+      "email" : "x@x.ca",
+      "firstName" : "Testqwer",
+      "lastName" : "Help",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "4Cnch3fJ0Rg9TznLkAE9XUbzCww1" : {
+      "disabledFlag" : true,
+      "email" : "ffwjjvbn@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "64N7Ix7z6XQknQ9GviewQzS4Q0w2" : {
+      "disabledFlag" : false,
+      "email" : "pibogpoc@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "7dAdIKAdoiZMD5VYimU2dzNpaiE2" : {
+      "disabledFlag" : true,
+      "email" : "tvjnscel@gmail.ca",
+      "firstName" : "Sterling",
+      "lastName" : "Kuepfer",
+      "password" : "qwerty",
+      "userType" : "Customer"
+    },
+    "FsRas4e1wsXtKc3jg6MZMYy8PHy1" : {
+      "branchID" : "-MME-pH5CnejyU8gydNq",
+      "disabledFlag" : false,
+      "email" : "branch@branch.ca",
+      "firstName" : "Branch",
+      "lastName" : "Test",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "FyP3LXOeiLeCv8E5dW6T46qgqAK2" : {
+      "disabledFlag" : true,
+      "email" : "emxkxtqs@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "GWxIrtr43GOtQaTLPzOOSBFYUH82" : {
+      "disabledFlag" : false,
+      "email" : "dfxqmjjt@gmail.ca",
+      "firstName" : "Testname",
+      "lastName" : "Todelete",
+      "password" : "qwerty",
+      "userType" : "Customer"
+    },
+    "GjAhEsjbzhadY1TTGWiRO4Zetfx1" : {
+      "branchID" : "-MMIopCobSV0qkAVTJ60",
+      "disabledFlag" : false,
+      "email" : "test@test.ca",
+      "firstName" : "Tes",
+      "lastName" : "Aa",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "HmlQiiWZFYaYDV0c4qytQpRAf313" : {
+      "disabledFlag" : false,
+      "email" : "frbfyqxy@gmail.ca",
+      "firstName" : "Sterling",
+      "lastName" : "Kuepfer",
+      "password" : "qwerty",
+      "userType" : "Customer"
+    },
+    "IKlTNg9QyEROxmymsCNJUXRika72" : {
+      "disabledFlag" : false,
+      "email" : "zopomxjo@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "IYhJEi5rueeTQ9nMhqmhxXtN7go2" : {
+      "disabledFlag" : false,
+      "email" : "bob@gmail.com",
+      "firstName" : "Bob",
+      "lastName" : "Smith",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "JEezavjkbuZ41FPDOvNyLNnUM1r1" : {
+      "branchID" : "-MMIoce0tds7oRUVr1sb",
+      "disabledFlag" : false,
+      "email" : "a@a.coma",
+      "firstName" : "Tes",
+      "lastName" : "Aa",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "MlzyjTRMD4cOoHrlOjTvb6MAIGU2" : {
+      "disabledFlag" : false,
+      "email" : "tjpabaey@gmail.ca",
+      "firstName" : "Sterling",
+      "lastName" : "Kuepfer",
+      "password" : "qwerty",
+      "userType" : "Customer"
+    },
+    "NUNSRjos2qQUlygVJ2ptSx4sczv1" : {
+      "disabledFlag" : true,
+      "email" : "evgzedfk@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "NXCzNFKeGneB4YKnPW7jxzRvCoE2" : {
+      "disabledFlag" : false,
+      "email" : "lkrkvhmh@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "OZVSS10DeXdH6J37rp8jibPPYDs1" : {
+      "disabledFlag" : false,
+      "email" : "mmm@mm.ca",
+      "firstName" : "New",
+      "lastName" : "Man",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "PISQeHkgIjSHELF6lyyhlcAF2uL2" : {
+      "disabledFlag" : false,
+      "email" : "aa@aa.ca",
+      "firstName" : "A",
+      "lastName" : "A",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "PjFiL7I9BCcTxFUK3KXC6tXXGz62" : {
+      "disabledFlag" : false,
+      "email" : "lnkuquaf@gmail.ca",
+      "firstName" : "Sterling",
+      "lastName" : "Kuepfer",
+      "password" : "qwerty",
+      "userType" : "Customer"
+    },
+    "PuxMXGBm2UYYHFOA1wbTRja8yLD3" : {
+      "disabledFlag" : true,
+      "email" : "dsuowcpl@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "S8Dq7LqEdLTJO4uTQonlfQSZ8RL2" : {
+      "disabledFlag" : false,
+      "email" : "nick@gmail.com",
+      "firstName" : "Nick",
+      "lastName" : "Erskine",
+      "password" : "123456",
+      "userType" : "Employee"
+    },
+    "Uqtj8GMN3CfBuJ7HwfaXcSspZBI3" : {
+      "disabledFlag" : false,
+      "email" : "qwerty@gmail.com",
+      "firstName" : "Nicholas",
+      "lastName" : "Erskine",
+      "password" : "123456",
+      "userType" : "Customer"
+    },
+    "VbGegZXfzcPpPVq5pnwlcnNYBJy2" : {
+      "disabledFlag" : false,
+      "email" : "blkoejvy@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "XMBrOHGjpocF4jEajAhmBegDtgY2" : {
+      "disabledFlag" : false,
+      "email" : "new@new.com",
+      "firstName" : "Test",
+      "lastName" : "Ing",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "YVPPMh0Rr9UXNIyP5Z1J0jjqycG2" : {
+      "disabledFlag" : false,
+      "email" : "qlsmwgax@gmail.ca",
+      "firstName" : "Testname",
+      "lastName" : "Todelete",
+      "password" : "qwerty",
+      "userType" : "Customer"
+    },
+    "ZOccvw6guYPkKnaqm74OLxAJrVq2" : {
+      "disabledFlag" : false,
+      "email" : "aang@gmail.com",
+      "firstName" : "Aaron",
+      "lastName" : "Ng",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "bRkShm9SX9eyhhsGJnjh8BU6xS22" : {
+      "disabledFlag" : false,
+      "email" : "thewlqng@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "c4EwvEZ35YV61rAfd7BfsNyDAYE2" : {
+      "disabledFlag" : false,
+      "email" : "lrtlidlz@gmail.ca",
+      "firstName" : "Sterling",
+      "lastName" : "Kuepfer",
+      "password" : "qwerty",
+      "userType" : "Customer"
+    },
+    "cuYUH7htNEUuZSf1zHc6PvCYzmC3" : {
+      "disabledFlag" : true,
+      "email" : "ggg@aa.ca",
+      "firstName" : "Gagag",
+      "lastName" : "Agaga",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "gboO6OnxmAS1Q1vQhUKnyaWxeco1" : {
+      "disabledFlag" : false,
+      "email" : "xqiqmquv@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "iS7LLNYcmjZi3Xb148nznI74HR42" : {
+      "disabledFlag" : true,
+      "email" : "tjnupnvx@gmail.ca",
+      "firstName" : "Sterling",
+      "lastName" : "Kuepfer",
+      "password" : "qwerty",
+      "userType" : "Customer"
+    },
+    "jR1xtObwrkcAm6UBL96xt3Oc1fp2" : {
+      "disabledFlag" : false,
+      "email" : "emp@enp.ca",
+      "firstName" : "Gg",
+      "lastName" : "Hh",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "lM6qT6kc0yTj2tXP74pFleQJhh02" : {
+      "branchID" : "-MMIohLRhiupkLJ4ZCd-",
+      "disabledFlag" : false,
+      "email" : "aqqqqq@a.com",
+      "firstName" : "Tes",
+      "lastName" : "Aa",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "lqA0gLC1ORaqgzxZ0hCaT8Ganr02" : {
+      "disabledFlag" : false,
+      "email" : "psgaqghw@gmail.ca",
+      "firstName" : "Testname",
+      "lastName" : "Todelete",
+      "password" : "qwerty",
+      "userType" : "Customer"
+    },
+    "n8ONIDCEYNUykSt6T4M5yuACRx22" : {
+      "disabledFlag" : true,
+      "email" : "ehwzomsk@gmail.ca",
+      "firstName" : "Sterling",
+      "lastName" : "Kuepfer",
+      "password" : "qwerty",
+      "userType" : "Customer"
+    },
+    "o1amocHAqGVFVXWb2fFSCP2Oi1q2" : {
+      "disabledFlag" : false,
+      "email" : "gvwqsjpx@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "oB086HaBXsQj8lntMTVIrNxFtpC3" : {
+      "disabledFlag" : false,
+      "email" : "fmxlfzlf@gmail.ca",
+      "firstName" : "Sterling",
+      "lastName" : "Kuepfer",
+      "password" : "qwerty",
+      "userType" : "Customer"
+    },
+    "ovzE1UNCN8MoLbtVOH0eZ6aVn1K3" : {
+      "disabledFlag" : false,
+      "email" : "kmkgxzvt@gmail.ca",
+      "firstName" : "Testname",
+      "lastName" : "Todelete",
+      "password" : "qwerty",
+      "userType" : "Customer"
+    },
+    "p34XkWINEhR0wslYxkvggyJYbIi1" : {
+      "disabledFlag" : false,
+      "email" : "xbwsllos@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "q94M8HsayiRVequ1CsKRisZhkvR2" : {
+      "disabledFlag" : false,
+      "email" : "admin@admin.ca",
+      "firstName" : "admin",
+      "lastName" : "admin",
+      "password" : "qwerty",
+      "userType" : "admin"
+    },
+    "qVYBLBTnYbamD9NGj7rzBU90MvW2" : {
+      "disabledFlag" : false,
+      "email" : "pqywdvqz@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "qhQaZtiDDMdK1GtMIA8GbDf1yO62" : {
+      "disabledFlag" : false,
+      "email" : "vbjcwksy@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "s2RTZrxEz5OPaHAKXo80yhlbjA43" : {
+      "disabledFlag" : false,
+      "email" : "lluqcncp@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "tMeDkCEY74Ow7jyeH266KIe05tP2" : {
+      "disabledFlag" : false,
+      "email" : "emp@emp.ca",
+      "firstName" : "Employee",
+      "lastName" : "Test",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "v3ovHPR0IJbIJdQZ6WBR88Q0Ugf2" : {
+      "disabledFlag" : false,
+      "email" : "qwe@q.com",
+      "firstName" : "Plz",
+      "lastName" : "Work",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "wYcFYa5hR5Y1rItoWAM2oTYKVY52" : {
+      "disabledFlag" : false,
+      "email" : "qaipqzyg@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "xZGgxmxTmQUp61a16SQxOr8ERWg2" : {
+      "disabledFlag" : false,
+      "email" : "jtxykbfw@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "xvT0mNUsikUif80I4sG9hBQ4b752" : {
+      "disabledFlag" : false,
+      "email" : "qqcojikb@gmail.ca",
+      "firstName" : "Andrew",
+      "lastName" : "Squires",
+      "password" : "qwerty",
+      "userType" : "Employee"
+    },
+    "zGtRVrVUkDTk2lYQ7I87v0H5qmw1" : {
+      "disabledFlag" : false,
+      "email" : "vgqovjoz@gmail.ca",
+      "firstName" : "Sterling",
+      "lastName" : "Kuepfer",
+      "password" : "qwerty",
+      "userType" : "Customer"
+    }
+  }
+}

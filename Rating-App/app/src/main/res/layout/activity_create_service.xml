@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ConstraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/box_inset_layout_padding"
+    tools:context=".CreateService"
+    tools:deviceIds="wear" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="30dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="40dp" />
+
+        <TextView
+            android:id="@+id/CreateServiceTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/CreateService_Title"
+            android:textAlignment="center"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="40dp" />
+
+        <TextView
+            android:id="@+id/CreateServiceName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/CreateService_LabelName" />
+
+        <EditText
+            android:id="@+id/ApproveServiceNameTB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:autofillHints="" />
+
+        <TextView
+            android:id="@+id/CreateServiceRate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/CreateService_LabelRate" />
+
+        <EditText
+            android:id="@+id/ApproveServiceRateTB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="numberDecimal"
+            android:autofillHints="" />
+
+        <TextView
+            android:id="@+id/CreateServiceDocumentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/CreateService_LabelDocument" />
+
+        <CheckBox
+            android:id="@+id/CreateServiceDriverLicense"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/CreateService_CB_DriverLicense" />
+
+        <CheckBox
+            android:id="@+id/CreateServiceHealthCard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/CreateService_CB_HealthCard" />
+
+        <CheckBox
+            android:id="@+id/CreateServicePhotoID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/CreateService_CB_PhotoID" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="40dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/CreateServiceBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onClickCreateService"
+                android:text="@string/CreateService_Btn_Create" />
+
+            <Button
+                android:id="@+id/CreateServiceBtnBack"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onClickGoBack"
+                android:text="@string/CreateService_Btn_Back" />
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
